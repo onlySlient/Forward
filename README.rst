@@ -6,7 +6,7 @@ All documentation is in the "``docs``" directory and online at
 https://docs.djangoproject.com/en/stable/. If you're just getting started,
 here's how we recommend you read the docs:
 
-* First, read ``docs/intro/install.txt`` for instructions on installing Django.
+* First, read ``docs/intro/install.txt`` 
 
 * Next, work through the tutorials in order (``docs/intro/tutorial01.txt``,
   ``docs/intro/tutorial02.txt``, etc.).
